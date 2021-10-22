@@ -1,6 +1,8 @@
 # Brandbil
 
-![Alt Text](assets/brandbil.gif)
+<p align="center">
+  <img src="assets/brandbil.gif" />
+</p>
 
 In recent years, the presence of fires worldwide has been increasing. Not only were human lives taken, the economic cost behind the fires is very high. The solution? Brandil:
 
